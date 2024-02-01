@@ -6,6 +6,7 @@ import SolutionSection from "./components/SolutionSection";
 import AboutSection from "./components/AboutSection";
 import OurworkSection from "./components/OurworkSection";
 import BlogSection from "./components/BlogSection";
+import CareersSection from "./components/CareersSection";
 
 export default function HomePage() {
   return (
@@ -17,6 +18,7 @@ export default function HomePage() {
       <AboutSection />
       <OurworkSection />
       <BlogSection />
+      <CareersSection />
     </div>
   );
 }
