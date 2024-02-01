@@ -7,6 +7,7 @@ import AboutSection from "./components/AboutSection";
 import OurworkSection from "./components/OurworkSection";
 import BlogSection from "./components/BlogSection";
 import CareersSection from "./components/CareersSection";
+import Footer from "./components/Footer";
 
 export default function HomePage() {
   return (
@@ -19,6 +20,7 @@ export default function HomePage() {
       <OurworkSection />
       <BlogSection />
       <CareersSection />
+      <Footer />
     </div>
   );
 }
