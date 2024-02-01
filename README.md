@@ -1,8 +1,17 @@
-# React + Vite
+# Avero: Business Website: ReactJS & Tailwind Css
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+URL: https://samithadev.github.io/Avero_Business_Website/
 
-Currently, two official plugins are available:
+![image](https://github.com/samithadev/Avero_Business_Website/assets/89331663/e0e0d025-e745-4898-a8d2-a927d225c78a)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Hovering and Scrolling Effects
+![image](https://github.com/samithadev/Avero_Business_Website/assets/89331663/6c0d30b1-856c-4300-8f25-7daae29784aa)
+![image](https://github.com/samithadev/Avero_Business_Website/assets/89331663/f8e7e824-7f5d-4a76-80f2-bf7cb6cf33ba)
+![image](https://github.com/samithadev/Avero_Business_Website/assets/89331663/5061e76f-af83-4659-ad4b-06449a889c87)
+
+
+
+
+
+
+
